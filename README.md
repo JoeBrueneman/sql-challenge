@@ -2,15 +2,6 @@
 
 This project involves setting up an employee database using PostgreSQL and conducting a series of data analysis tasks. 
 
-The following tables are included:
-
-- `departments`: Contains department information.
-- `dept_emp`: Lists department and employee relationships.
-- `dept_manager`: Lists which employees manage each department.
-- `employees`: Contains employee information.
-- `salaries`: Lists employee salaries.
-- `titles`: Contains titles associated with each employee.
-
 All columns have their primary keys set, tables correctly related assigned with Foreign Keys, and Not Null conditions. 
 
 Once the database is set up, the following analyses were performed using SQL queries:
