@@ -11,11 +11,6 @@ The following tables are included:
 - `salaries`: Lists employee salaries.
 - `titles`: Contains titles associated with each employee.
 
-##Data Modeling
-
-Data Modeling was created using QuickDBD and exported as PNG file in the EmployeeSQL folder in my local and pushed into the github.
-##Data Engineering
-
 All columns have their primary keys set, tables correctly related assigned with Foreign Keys, and Not Null conditions. 
 
 Once the database is set up, the following analyses were performed using SQL queries:
