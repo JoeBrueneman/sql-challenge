@@ -20,7 +20,7 @@ CREATE TABLE "departments" (
 
 CREATE TABLE "employees" (
     "emp_no" INT   NOT NULL,
-    "emp_title_id" INT   NOT NULL,
+    "emp_title_id" VARCHAR(10)   NOT NULL,
     "birth_date" DATE   NOT NULL,
     "first_name" VARCHAR(40)   NOT NULL,
     "last_name" VARCHAR(50)   NOT NULL,

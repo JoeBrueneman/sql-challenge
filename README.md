@@ -11,6 +11,10 @@ The following tables are included:
 - `salaries`: Lists employee salaries.
 - `titles`: Contains titles associated with each employee.
 
+##Images
+
+Review the images folder for screenshots of each sql query as listed below.
+
 ##Data Modeling
 
 Data Modeling was created using QuickDBD and exported as PNG file in the EmployeeSQL folder in my local and pushed into the github.
